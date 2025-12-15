@@ -1,16 +1,12 @@
 # LiveDB 🚀
+- 🌍 visit livedb website
+- https://livedbs.web.app/
 
 **The Easiest Cloud Database & Storage for Flutter.**
 
 LiveDB provides a complete backend solution with **Database** and **Cloud Storage** capabilities. It's designed to be simple, fast, and secure.
 
-[![Live DBs Official Website](livedbs.web.app)](livedbs.web.app/)
-
-
-
-<a href="livedbs.web.app" target="_blank">
-<img src="screenshots/1.png">
-</a>
+[![LiveDB Screenshot](screenshots/1.png)](https://livedbs.web.app)
 
 ## 🔥 Features
 
@@ -35,8 +31,9 @@ dependencies:
 
 ---
 
-<a href="livedbs.web.app/api-docs" target="_blank"> API Documentaion </a>
-<a href="livedbs.web.app/" target="_blank"> Login For (Token) APi Key  </a>
+## 📚 Documentation & Access
+
+[**📖 API Documentation**](https://livedbs.web.app/api-docs) • [**🔑 Get API Key (Login)**](https://livedbs.web.app/)
 
 ---
 
@@ -196,9 +193,8 @@ await LiveDB().uploadFile(
 );
 ```
 
-[![Live DBs Storage Demo](https://github.com/HassanAmeer/livedb_flutter_package/blob/main/screenshots/1.png)](https://github.com/HassanAmeer/livedb_flutter_package/blob/main/screenshots/1.png)
 ---
 
 ## ❤️ Support
-If you like **LiveDB**, please give it a star on [GitHub](https://github.com/HassanAmeer/livedb_flutter_package)! 
-Issues or questions? [File an issue](https://github.com/HassanAmeer/livedb_flutter_package/issues).
+If you like **LiveDB**, please give it a star on [GitHub](https://github.com/HassanAmeer/livedb)! 
+Issues or questions? [File an issue](https://github.com/HassanAmeer/livedb/issues).

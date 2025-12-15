@@ -2,10 +2,10 @@ name: livedb
 description: "Live DB Free Cloud Database & Storage for Flutter. Realtime NoSQL document database and instant file storage with encryption support. Liivedb is a  Firebase alternative.  #tags: livedbs database , storage , nosql , cloud , offline , firebase , free storage , live database, database storage ,  free database , live storage , cloud database , media storage , offline database , offline storage "
 topics: 
   - livedb
-  - live storage
-  - firebase storage
-  - free storage
-  - offline database
+  - live-storage
+  - free-storage
+  - firebase-storage
+  - offline-database
 
 
 
@@ -13,7 +13,7 @@ topics:
 
 
 
-version: 1.0.0
+version: 1.0.1
 
 homepage: https://github.com/HassanAmeer/livedb_flutter_package
 documentation: https://livedbs.web.app/api-docs
